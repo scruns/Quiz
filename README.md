@@ -1,4 +1,5 @@
 # React Quiz
+This was edited from this -
 
 [View demo](http://mitchgavan.github.io/react-multi-choice-quiz/)
 
